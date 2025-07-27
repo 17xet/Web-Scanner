@@ -1,6 +1,3 @@
-Sure! Here's your `README.md` content in proper Markdown format, ready to copy into a `README.md` file:
-
-```markdown
 # 🌐 Nite Tools – Website Scanner
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
@@ -92,5 +89,3 @@ This tool is intended for **educational** and **authorized use only**. You are r
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-```
